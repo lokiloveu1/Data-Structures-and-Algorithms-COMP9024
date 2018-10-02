@@ -2,7 +2,6 @@
  * File:   MyDDList.c
  * Author: loki
  * Student Name: Qian Cheng
- * Student ID: z5149155
  * Created on 25 March 2018, 5:21 PM
  */
 
