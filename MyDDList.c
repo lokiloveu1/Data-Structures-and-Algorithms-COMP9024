@@ -1,7 +1,6 @@
 /* 
  * File:   MyDDList.c
  * Author: loki
- * Student Name: Qian Cheng
  * Created on 25 March 2018, 5:21 PM
  */
 
